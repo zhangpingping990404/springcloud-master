@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/zhangpingping990404/zpp-master
+          uri: https://github.com/zhangpingpingSmart/zpp-master
 eureka:
   client:
     service-url:
