@@ -18,7 +18,7 @@ public class ServiceFallbackProvider implements FallbackProvider {
     public String getRoute() {
         // 这里只针对"springbootService"服务进行熔断
         // 如果需要针对所有服务熔断，则return "*"
-        return "springbootService";
+        return "*";
     }
 
     @Override

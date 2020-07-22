@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootConfig/springbootConfig.iml" filepath="$PROJECT_DIR$/springbootConfig/springbootConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootConsumerFeign/springbootConsumerFeign.iml" filepath="$PROJECT_DIR$/springbootConsumerFeign/springbootConsumerFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootConsumerRibbon/springbootConsumerRibbon.iml" filepath="$PROJECT_DIR$/springbootConsumerRibbon/springbootConsumerRibbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootEureka/springbootEureka.iml" filepath="$PROJECT_DIR$/springbootEureka/springbootEureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootservice/springbootService.iml" filepath="$PROJECT_DIR$/springbootservice/springbootService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootservice2/springbootService (1).iml" filepath="$PROJECT_DIR$/springbootservice2/springbootService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootZuul/springbootZuul.iml" filepath="$PROJECT_DIR$/springbootZuul/springbootZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-master.iml" filepath="$PROJECT_DIR$/.idea/springcloud-master.iml" />
+    </modules>
+  </component>
+</project>

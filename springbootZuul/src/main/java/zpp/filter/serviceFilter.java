@@ -31,6 +31,10 @@ public class serviceFilter extends ZuulFilter {
         return true; // 表示是否需要执行该filter，true表示执行，false表示不执行
     }
 
+    /**
+     * 拦截器，token校验
+     * @return
+     */
     @Override
     public Object run() {
         // filter需要执行的具体操作

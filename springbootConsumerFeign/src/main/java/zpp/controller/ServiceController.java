@@ -4,7 +4,7 @@
 package zpp.controller;
 
 import common.entity.RestfulResult;
-import common.utils.CommUtils;
+import utils.CommUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
